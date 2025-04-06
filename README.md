@@ -115,7 +115,7 @@ Un proiect hardware ce integreaza un modul **ESP32-C6**, un **display e-Paper 7.
 
 Model 3D interactiv găzduit pe Autodesk Viewer.
 
-[🔗 Vizualizează modelul direct în Autodesk Viewer](https://stud33517.autodesk360.com/shares/public/SH30dd5QT870c25f12fc75d2ac08da186a19)
+[🔗 Modelul direct in Autodesk Viewer](https://stud33517.autodesk360.com/shares/public/SH30dd5QT870c25f12fc75d2ac08da186a19)
 
 ## Etape de implementare:
  - Am inceput cu asamblarea pieselor in schematic din biblioteca data, apoi cu trecerea la placa pcb, decuparea placii, masuratori luate pentru amplasarea corecta a pieselor si pentru integrarea usoara a placii in carcasa data.
