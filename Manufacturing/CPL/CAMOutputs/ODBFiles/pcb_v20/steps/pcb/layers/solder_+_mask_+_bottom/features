@@ -1,0 +1,16 @@
+UNITS=MM
+ID=12932
+#
+#Num Features
+#
+F 2
+#
+#Feature symbol names
+#
+$0 r853.2
+
+#
+#Layer features
+#
+P 163.593 51.67 0 P 0 0;;ID=651
+P 163.593 57.45 0 P 0 0;;ID=654
