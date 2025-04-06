@@ -130,4 +130,8 @@ Model 3D interactiv găzduit pe Autodesk Viewer.
 1. Am avut doua erori pe care le-am aprobat in pcb("Copper Width"), dar ele aveau grosimea buna.
 2. Am gresit ceva si m-am intors la o varianta anterioara a pcb ului si dupa nu a mai fost sincronizat cu schematicul si nu mi-a mai mers randarea in 3d a placii si am luat totul de la inceput.
 
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
