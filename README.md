@@ -13,7 +13,7 @@ Un proiect hardware ce integrează un modul **ESP32-C6**, un **display e-Paper 7
 ## 📦 BOM – Bill of Materials
 | Componentă                 | Achiziție                                     | Datasheet                                   |
 |---------------------------|-----------------------------------------------|---------------------------------------------|
-| PFMF.050.1                | [Cumpără]([LINK_CUMPARARE](https://ro.mouser.com/ProductDetail/Schurter/PFMF.050.2?qs=1auRipcfynCums5v1iucSA%3D%3D))                     | [Datasheet]([LINK_DATASHEET](https://ro.mouser.com/datasheet/2/358/typ_PFMF-1275918.pdf))                 |
+| PFMF.050.1                | [Cumpără](https://ro.mouser.com/ProductDetail/Schurter/PFMF.050.2?qs=1auRipcfynCums5v1iucSA%3D%3D)                     | [Datasheet](https://ro.mouser.com/datasheet/2/358/typ_PFMF-1275918.pdf)                 |
 | USB4110-GF-A              | [Cumpără]([LINK_CUMPARARE](https://ro.mouser.com/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D))                     | [Datasheet]([LINK_DATASHEET](https://ro.mouser.com/datasheet/2/837/GCT_USB4110_Product_Drawing___20k_cycles-3455479.pdf))                 |
 | USBLC6-2SC6Y              | [Cumpără]([LINK_CUMPARARE](https://ro.mouser.com/ProductDetail/STMicroelectronics/USBLC6-2SC6Y?qs=gNDSiZmRJS%2FOgDexvXkdow%3D%3D))                     | [Datasheet]([LINK_DATASHEET](https://ro.mouser.com/datasheet/2/389/usblc6_2sc6y-1852505.pdf))                 |
 | SD0805S020S1R0            | [Cumpără]([LINK_CUMPARARE](https://ro.mouser.com/ProductDetail/KYOCERA-AVX/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D))                     | [Datasheet]([LINK_DATASHEET](https://ro.mouser.com/datasheet/2/40/schottky-3165252.pdf))                 |
@@ -59,7 +59,6 @@ Un proiect hardware ce integrează un modul **ESP32-C6**, un **display e-Paper 7
 - 🖼️ **Display e-Paper 7.5”**: conectat prin interfață SPI
 - 🔋 **Baterie Li-Ion 3.7V**: conectare directă la testpad-uri
 - 🧪 **Testpad-uri**: pentru alimentare, măsurători și debugging
-- 🌐 Posibilitate de comunicare UART pentru programare
 - 🧲 Toate GND-urile sunt conectate într-un plan de masă dublu (top/bottom) cu **via stitching**
 
 ---
