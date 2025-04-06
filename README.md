@@ -106,9 +106,9 @@ Un proiect hardware ce integreaza un modul **ESP32-C6**, un **display e-Paper 7.
 ## 🖼️ Randari
 
 
-- ✅ [Randare 3D a placii](Images/pcb3d.png) 
-- ✅ [Placa in carcasa](Images/produs3d.png)
-- ✅ [Vedere explodata](Images/exploded.png)
+- ✅ ![Randare 3D a placii](Images/pcb3d.png) 
+- ✅ ![Placa in carcasa](Images/produs3d.png)
+- ✅ ![Vedere explodata](Images/exploded.png)
 
 ---
 # Vizualizare 3D Autodesk
