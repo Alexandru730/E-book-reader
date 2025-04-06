@@ -118,6 +118,7 @@ Un proiect hardware ce integreaza un modul **ESP32-C6**, un **display e-Paper 7.
  - Am facut planul de masa pe bottom si pe top, am folosit via stitching.
  - Iar apoi am trecut la pcb in 3d, am incarcat toate piesele in 3d si am trecut la masuratorile pentru baterie si ecran.
  - Bateria am facut-o simpla cu doua iesiri legate la doua testpaduri, vbat si gnd.
+ - Display-ul l-am realizat dupa masuratorile date din datasheet, i-am facut si acel conector care intra in spatiul liber din placuta la connector display
 
 
 # Erori
