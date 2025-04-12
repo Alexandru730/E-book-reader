@@ -106,7 +106,7 @@ Un proiect hardware ce integreaza un modul **ESP32-C6**, un **display e-Paper 7.
 ## 🖼️ Randari
 
 
-- ✅ ![Randare 3D a placii](Images/pcb3d.png) 
+- ✅ ![Randare 3D a placii](Images/3D_product.png) 
 - ✅ ![Placa in carcasa](Images/produs3d.png)
 - ✅ ![Vedere explodata](Images/exploded.png)
 
@@ -115,7 +115,9 @@ Un proiect hardware ce integreaza un modul **ESP32-C6**, un **display e-Paper 7.
 
 Model 3D interactiv găzduit pe Autodesk Viewer.
 
-[🔗 Modelul direct in Autodesk Viewer](https://stud33517.autodesk360.com/shares/public/SH30dd5QT870c25f12fc75d2ac08da186a19)
+[🔗 Modelul direct in Autodesk Viewer](https://stud33517.autodesk360.com/shares/public/SH30dd5QT870c25f12fc75d2ac08da186a19).1
+
+
 
 ## Etape de implementare:
  - Am inceput cu asamblarea pieselor in schematic din biblioteca data, apoi cu trecerea la placa pcb, decuparea placii, masuratori luate pentru amplasarea corecta a pieselor si pentru integrarea usoara a placii in carcasa data.
@@ -127,7 +129,11 @@ Model 3D interactiv găzduit pe Autodesk Viewer.
 
 
 # Erori
-1. Am avut doua erori pe care le-am aprobat in pcb("Copper Width"), dar ele aveau grosimea buna.
+1
+
+
+[🔗 Modelul direct in Autodesk Viewer](https://stud33517.autodesk360.com/shares/public/SH30dd5QT870c25f12fc75d2ac08da186a19).1
+. Am avut doua erori pe care le-am aprobat in pcb("Copper Width"), dar ele aveau grosimea buna.
 2. Am gresit ceva si m-am intors la o varianta anterioara a pcb ului si dupa nu a mai fost sincronizat cu schematicul si nu mi-a mai mers randarea in 3d a placii si am luat totul de la inceput.
 
 ## License
