@@ -131,6 +131,7 @@ Model 3D interactiv găzduit pe Autodesk Viewer.
 # Erori
 1. Am avut doua erori pe care le-am aprobat in pcb("Copper Width"), dar ele aveau grosimea buna.
 2. Am gresit ceva si m-am intors la o varianta anterioara a pcb ului si dupa nu a mai fost sincronizat cu schematicul si nu mi-a mai mers randarea in 3d a placii si am luat totul de la inceput.
+3. Mi s-a sters o componenta, mai exact cea de langa reset button, label-ul de RESET si am vazut abia la finalul proiectului, daca incercam sa o inlocuiesc cu ce trebuia mi se dadea totul peste cap si trebuia sa o iau de la capat, aveam niste erori care nu ma mai lasau sa dau push to 3d la pcb si nu se vedeau componentele in 3D, ceva warning uri in schematic, care ziceau de fire ca nu erau legate bine, sau ca o anumita componenta avea 3 iesiri, dar ea avea doar una.
 
 ## License
 
