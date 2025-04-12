@@ -129,11 +129,7 @@ Model 3D interactiv găzduit pe Autodesk Viewer.
 
 
 # Erori
-1
-
-
-[🔗 Modelul direct in Autodesk Viewer](https://stud33517.autodesk360.com/shares/public/SH30dd5QT870c25f12fc75d2ac08da186a19).1
-. Am avut doua erori pe care le-am aprobat in pcb("Copper Width"), dar ele aveau grosimea buna.
+1. Am avut doua erori pe care le-am aprobat in pcb("Copper Width"), dar ele aveau grosimea buna.
 2. Am gresit ceva si m-am intors la o varianta anterioara a pcb ului si dupa nu a mai fost sincronizat cu schematicul si nu mi-a mai mers randarea in 3d a placii si am luat totul de la inceput.
 
 ## License
